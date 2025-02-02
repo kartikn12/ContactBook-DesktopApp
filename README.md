@@ -8,7 +8,7 @@ Java Contact Manager is a powerful **desktop application** for managing personal
 ✅ **Add, Edit, Delete Contacts** – Manage names, phone numbers, emails, and more.  
 ✅ **Photo Upload & Update** – Attach and modify profile pictures.  
 ✅ **Search & Filter** – Quickly find contacts with advanced search.  
-✅ **Database Integration** – Uses **MySQL/SQLite** for secure data storage.  
+✅ **Database Integration** – Uses **Xampp/PhpMyAdmin** for secure data storage.  
 ✅ **Import & Export Contacts** – Backup and restore data easily.  
 ✅ **User Authentication** – Secure login system (optional).  
 ✅ **Modern UI** – Responsive and easy-to-use interface with  Swing.  
